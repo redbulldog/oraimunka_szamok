@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sunsolutions003/Desktop/ClickCounter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="16cbe1a4344390d4649ceffd0cf37d951f6290cf">
+        <dex dex="/Users/sunsolutions003/Desktop/ClickCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_384fda28e61ba2aabb8fbe3cd029c42ec7642bbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sunsolutions003/Desktop/ClickCounter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/sunsolutions003/Desktop/ClickCounter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6b325b8c6c35f2cd9f75269facdf5c9c8a2e03d8/classes.dex" />
+    </item>
+
+</items>
